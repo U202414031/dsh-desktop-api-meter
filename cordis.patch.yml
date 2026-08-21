@@ -1,0 +1,6 @@
+# dsh-desktop-api-meter bundle: API provider/key settings + token-usage metering.
+# Renderer-only — the host row is a placeholder so the Loader can resolve the
+# insert; the web client half comes from `exports["./client"]`.
+- insert:
+    - id: desktop-api-meter
+      name: dsh-desktop-api-meter
