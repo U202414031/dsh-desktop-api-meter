@@ -1,6 +1,6 @@
 {
   "name": "dsh-desktop-api-meter",
-  "version": "0.1.0-dev.0",
+  "version": "0.1.0",
   "description": "API provider/key settings + token-usage metering (per-reply cost footer + model monitor) for DeepSeek Harness Desktop.",
   "license": "MIT",
   "type": "module",
@@ -69,5 +69,8 @@
   "bugs": {
     "url": "https://github.com/U202414031/dsh-desktop-api-meter/issues"
   },
-  "author": "U202414031 <1093877346@qq.com>"
+  "author": "U202414031 <1093877346@qq.com>",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }

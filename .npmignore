@@ -1,0 +1,10 @@
+node_modules/
+src/
+tests/
+dist/
+*.tsbuildinfo
+tsconfig*.json
+tsdown.config.ts
+*.log
+.git/
+.github/
